@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "title": "Red Velvet",
+      "price": "Rp. 155.000.00",
+      "id": 1
+    },
+    {
+      "title": "Rainbow Cream Chese",
+      "price": "Rp. 170.000.00",
+      "id": 2
+    },
+    {
+      "title": "Black Forest",
+      "price": "Rp. 190.000.00",
+      "id": 3
+    },
+    {
+      "title": "Choco Fudge",
+      "price": "Rp. 178.000.00",
+      "id": 4
+    },
+    {
+      "title": "Choconut Forest",
+      "price": "Rp. 187.000.00",
+      "id": 5
+    },
+    {
+      "title": "Opera Cake",
+      "price": "Rp. 187.000.00",
+      "id": 6
+    },
+    {
+      "title": "Chantily ",
+      "price": "Rp. 132.000.00",
+      "id": 7
+    },
+    {
+      "title": "Choco Gruno",
+      "price": "Rp. 187.000.00",
+      "id": 8
+    },
+    {
+      "title": "Coffe Cake",
+      "price": "Rp. 154.000.00",
+      "id": 9
+    },
+    {
+      "title": "Pavlova dari New Zealand",
+      "price": "Rp. 199.000.00",
+      "id": 10
+    }
+  ]
+}
